@@ -1,0 +1,32 @@
+[
+    {
+        "name": "chaussures",
+        "price": 500,
+        "category": "vetements",
+        "stock": 16
+    },
+    {
+        "name": "iphone",
+        "price": 7900,
+        "category": "Électronique",
+        "stock": 81
+    },
+    {
+        "name": "pantalon",
+        "price": 358,
+        "category": "Vêtements",
+        "stock": 40
+    },
+    {
+        "name": "chauffe-eau",
+        "price": 1400,
+        "category": "cuisine",
+        "stock": 10
+    },
+    {
+        "name": "roman",
+        "price": 24,
+        "category": "Livres",
+        "stock": 12
+    }
+]
